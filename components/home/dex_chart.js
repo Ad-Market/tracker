@@ -15,7 +15,7 @@ export default function DexChart({ data }) {
                     frameBorder={0}
                     width={"100%"}
                     height={750}
-                    src={`https://www.dextools.io/app/en/bnb/${data && data.stats.pairAddress}?embed=1&theme=${type}&trades=0&info=0`}>
+                    src={`https://dexscreener.com/bsc/${data && data.stats.pairAddress}?embed=1&theme=${type}&trades=0&info=0`}>
                 </iframe>
             }
             </Card.Body>
