@@ -6,7 +6,7 @@ const symbols = Object.keys(tokens);
 
 export default function SearchBar({ defaultValue, activeToken }) {
 
-    const [active, setActive] = useState(activeToken ? activeToken : "OBSERV");
+    const [active, setActive] = useState(activeToken ? activeToken : "mLove");
 
     useEffect(async() => {
 
