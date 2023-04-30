@@ -11,8 +11,8 @@ export default function Tracker() {
     }, []);
 
     return (
-        <Layout title="Observ Wallet Tracker">
-            <PageHeader title="Observ Wallet Tracker"/>
+        <Layout title="mLove Wallet Tracker">
+            <PageHeader title="mLove Wallet Tracker"/>
             <Container gap={2} css={{ mt:-35 }}>
                 
                 <Grid.Container gap={1}>
