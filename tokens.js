@@ -1,10 +1,10 @@
 module.exports = {
     OBSERV: {
-        title: "Observ",
-        contract: "0x5e56394422782690653733DA4829c056B900BD18",
+        title: "mLove",
+        contract: "0xc307EFa505865c9db2476f9315ac707a00FaAb1E",
         decimals: 9,
         burn_wallet: "0x000000000000000000000000000000000000dead",
         canBurn: true,
-        primaryPool: "0x92052703D2dEFEe236a09f0Fe3dEdf3E77D8dfBe"
+        primaryPool: "0xdced76d8dd8a7a6da709dbb11d60e001f2db10fe"
     }
 }
